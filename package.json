@@ -1,0 +1,23 @@
+{
+  "name": "redactor",
+  "version": "0.1.0",
+  "description": "HTML WYSIWYG",
+  "main": "redactor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://origin1tech:Fish0534@github.com/recrent/redactor.git"
+  },
+  "keywords": [
+    "HTML",
+    "WYSIWYG"
+  ],
+  "author": "Origin1 Technologies <origin1tech@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recrent/redactor/issues"
+  },
+  "homepage": "https://github.com/recrent/redactor#readme"
+}
